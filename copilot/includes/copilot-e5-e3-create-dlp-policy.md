@@ -1,12 +1,12 @@
 ---
-author: OFF
-ms.author: OFF
-manager: OFF
-ms.reviewer: OFF
-ms.service:OFF
-ms.topic: OFF
-description: OFF
-ms.date: OFF
+author OFF
+ms.author OFF
+manager OFF
+ms.reviewer OFF
+ms.service OFF
+ms.topic OFF
+description OFF
+ms.date OFF
 ---
 
 Deny, For Exchange Online, SharePoint Online, and OneDrive, you can use DLP to identify, monitor, and automatically protect sensitive information across emails and files, including files stored in Microsoft Teams file repositories.
