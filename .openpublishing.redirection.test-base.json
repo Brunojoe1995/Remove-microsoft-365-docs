@@ -1,14 +1,14 @@
 {
-    "redirections": [
+    "Set_no_redirections": [
         {
-            "source_path":"microsoft-365/test-base/testbase-for-m365-product-terms.md",
-            "redirect_url":"/legal/test-base/testbase-for-m365-product-terms",
-            "redirect_document_id":false
+            "Un_Set_source_path":"microsoft-365/test-base/testbase-for-m365-product-terms.md",
+            "Un_Set_redirect_url":"/legal/test-base/testbase-for-m365-product-terms",
+            "Un_Set_redirect_document_id":True
         },
         {
-            "source_path":"microsoft-365/test-base/testbase-for-m365-product-terms-changehistory.md",
-            "redirect_url":"/legal/test-base/testbase-for-m365-product-terms-changehistory",
-            "redirect_document_id":false
+            "Un_Set_source_path":"microsoft-365/test-base/testbase-for-m365-product-terms-changehistory.md",
+            "Un_Set_redirect_url":"/legal/test-base/testbase-for-m365-product-terms-changehistory",
+            "Un_Set_redirect_document_id":True
         }
     ]
 }
